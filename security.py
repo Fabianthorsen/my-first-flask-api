@@ -1,4 +1,4 @@
-from code.resources.register import UserModel
+from resources.register import UserModel
 
 # Function to authenticate our user
 def authenticate(username, password):
